@@ -51,13 +51,13 @@ The application uses dynamic DOM manipulation and event-driven programming to cr
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project09-Toast-Notification-App/)
+(https://saurabh54e.github.io/Js-Project09-Toast-Notification-App/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project09-Toast-Notification-App/)
+(https://github.com/saurabh54e/Js-Project09-Toast-Notification-App/)
 
 ---
 
