@@ -1,4 +1,4 @@
-🚀 Day 9/30 – Toast Notification App
+🚀 Project 9 of my 30 JavaScript Projects Challenge. – Toast Notification App
 
 Continuing my 30 Days JavaScript Challenge, I built a modern Toast Notification Web App using Vanilla JavaScript.
 
@@ -29,7 +29,7 @@ Continuing my 30 Days JavaScript Challenge, I built a modern Toast Notification 
 
 ## Live 
 
-(https://saurabh54e.github.io/Js-Day09-Toast-Notification-App/)
+(https://saurabh54e.github.io/Js-Project09-Toast-Notification-App/)
 
 ## Author 
 Saurabh Singh.
