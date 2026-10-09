@@ -1,6 +1,6 @@
 🚀 Project 9 of my 30 JavaScript Projects Challenge. – Toast Notification App
 
-Continuing my 30 Days JavaScript Challenge, I built a modern Toast Notification Web App using Vanilla JavaScript.
+Continuing my 30 Projects JavaScript Challenge, I built a modern Toast Notification Web App using Vanilla JavaScript.
 
 ## Tech Used:
 • HTML
